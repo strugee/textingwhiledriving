@@ -1,0 +1,22 @@
+﻿# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Alex Jordan -- code -- @strugee2 (twitter) and @strugee (github)
+	Sophie True -- planning/research/writing -- @sophietrue
+	Thomas Jamrozik -- planning/research/writing
+
+# THANKS
+
+    No one. We really did this on our own (unless you count MDN and HTML5Boilerplate, in which case, thanks a ton!)
+	
+# SITE
+	Last update: https://github.com/strugee/textingwhiledriving/graphs/commit-activity
+	Language: English only :(
+	Doctype: HTML5
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
