@@ -1,22 +1,19 @@
-
-
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
 
+#navbar, #sidebar, #content, #home-hero {
+	margin-left: .5em;
+}
 
+#navbar, #home-hero {
+	margin-right: .5em;
+}
 
+#navbar-about {
+	float: right;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+footer {
+	text-align: center;
+}

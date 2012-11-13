@@ -30,13 +30,12 @@
 		<![endif]-->
 		
 		<div id="container-fluid">
-			
 			<div class="navbar" id="navbar">
 				<div class="navbar-inner">
-					<a href="#" class="brand">Texting while driving</a>
+					<a href="index.html" class="brand">Texting while driving</a>
 					<ul class="nav">
 						<li>
-							<a href="educateyourself.html">Educate yourself</a>
+							<a class="active" href="#">Educate yourself</a>
 						</li>
 						<li>
 							<a href="spreadtheword.html">Spread the word</a>
@@ -46,22 +45,49 @@
 						</li>
 					</ul>
 				</div> <!-- /navbar-inner -->
-			</div> <!-- /navbar -->	
+			</div> <!-- /navbar -->
 			
-			<div class="hero-unit" id="home-hero">
-				<h1><i class="icon-circle-arrow-up"></i> To start, choose a page.</h1>
-				<p>If you haven't been here before, you should probably start with Educate Yourself.</p>
-			</div> <!-- /hero-unit -->
-			
-			<!--<ul class="thumbnails">
-				<li>
-					<a class="thumbnail" href="#">Herp</a>
-				</li>
-				<li>
-					Derp
-				</li>
-			</ul>--> <!-- /thumbnails -->
-			
+			<div class="row-fluid">
+				<div class="span2">
+					<ul id="sidebar" class="nav nav-tabs nav-stacked">
+						<li class="active">
+							<a href="#whyitsbad" data-toggle="tab">Why it's bad</a>
+						</li>
+						<li class="disabled">
+							<a href="#video" data-toggle="tab">Video</a>
+						</li>
+						<li>
+							<a href="#whatyoucando" data-toggle="tab">What you can do content</a>
+						</li>
+						<li>
+							<a href="#laws" data-toggle="tab">Laws</a>
+						</li>
+						<li>
+							<a href="#statistics" data-toggle="tab">Statistics</a>
+						</li>
+					</ul> <!-- /sidebar -->
+				</div> <!-- /span2 -->
+				<div class="span10" id="content">
+					<div class="tab-content">
+						<div class="tab-pane active" id="whyitsbad">
+							<p>Why it's bad content</p>
+						</div>
+						<div class= "tab-pane" id="video">
+							<p>Video content</p>
+						</div>
+						<div class="tab-pane" id="whatyoucando">
+							<p>What you can do</p>
+						</div>
+						<div class="tab-pane" id="laws">
+							<p>Laws content</p>
+						</div>
+						<div class="tab-pane" id="statistics">
+							<p>Statistics content</p>
+						</div>
+					</div> <!-- /tab-content -->
+				</div> <!-- /span10 -->
+			</div> <!-- /row-fluid -->
+				
 			<footer>
 				<p>INSERT SOMETHING HERE. LIKE A LICENSE OR SOMETHING</p>
 			</footer>
