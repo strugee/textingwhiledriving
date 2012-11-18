@@ -3,13 +3,13 @@
 
 # TEAM
 
-    Alex Jordan -- code -- @strugee2 (twitter) and @strugee (github)
-	Sophie True -- planning/research/writing -- @sophietrue
-	Thomas Jamrozik -- planning/research/writing
+    Alex Jordan -- website design and code -- @strugee2 (twitter) and @strugee (github)
+	Sophie True -- social director -- @sophietrue
+	Thomas Jamrozik -- research and writing
 
 # THANKS
 
-    No one. We really did this on our own (unless you count MDN and HTML5Boilerplate, in which case, thanks a ton!)
+    No one, except for the one guy who answered [Alex's Stack Overflow question][1] about the social icons cutting off. Except for that, we really did this on our own (unless you count MDN, HTML5Boilerplate, Font Awesome, and Twitter Bootstrap in which case, thanks a ton!)
 	
 # SITE
 	Last update: https://github.com/strugee/textingwhiledriving/graphs/commit-activity
@@ -19,4 +19,8 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
+	HTML5Boilerplate, Twitter Bootstrap, Font Awesome
     jQuery, Modernizr
+
+[1]: http://stackoverflow.com/questions/13437051/im-using-a-font-awesome-icon-in-a-twitter-bootstrap-media-object-but-it-gets-c
+	

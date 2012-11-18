@@ -22,7 +22,7 @@ body {
 	padding-top: 1.3em;
 }
 
-.about-header {
+.about-header, .peopleheader {
 	color: rgb(153, 153, 153);
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-size: 24.5px;
@@ -31,8 +31,21 @@ body {
 	text-rendering: optimizelegibility;
 }
 
+.peopleheader {
+	font-size: 15px;
+}
+
 .socialicon {
 	font-size: 180px;
-	margin-bottom: 100px;
+	margin-bottom: 10px;
 	line-height: 150px;
+}
+
+#emailicon {
+	font-size: 155px;
+	line-height: 135px;
+}
+
+#friendemail {
+	margin-bottom: 5px;
 }
